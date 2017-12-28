@@ -1,0 +1,9 @@
+.vscode
+.nyc_output
+node_modules
+coverage
+build
+dist
+appconfig.json
+test.js
+*.tar.gz
